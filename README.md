@@ -1,7 +1,5 @@
 # Cargo Loading Optimizer using Fractional Knapsack
 
-## AOA Mini Project
-
 **Problem Statement:** 14
 **Module:** Module 3 – Greedy Method Approach
 **Algorithm:** Fractional Knapsack
